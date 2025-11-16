@@ -48,7 +48,7 @@ The API will be available under `http://127.0.0.1:8000/api` and the React SPA wi
 
 ## Features
 
-- JWT authentication powered by `tymon/jwt-auth`
+- JWT authentication powered by `php-open-source-saver/jwt-auth`
 - Role-based authorization middleware (`admin`, `knowledge_manager`, `employee`)
 - Document CRUD with file storage, tagging, and role access mapping
 - REST API resources for users, roles, and documents
